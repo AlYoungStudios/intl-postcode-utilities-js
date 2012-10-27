@@ -1,5 +1,5 @@
 /*
-* http://github.com/AlYoungStudios/international-zipcode-utils
+* http://github.com/AlYoungStudios/intl-postcode-utilities-js
 * Author: Al Young Studios/Tanner Young
 * Version 1.0.0 (Oct 26, 2012)
 * License: MIT License
