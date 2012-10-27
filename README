@@ -1,1 +1,7 @@
-README coming soon.
+This is utility with javascript functions and objects for validating addresses, postal codes, and other information for use in shopping carts and other addressing services.
+
+We built this for client-size integration with the shopping cart at http://www.alyoung.com/
+
+As this code stabilizes, we will provide more documentation.
+
+Version 1.0.0
